@@ -76,14 +76,17 @@ import android.widget.ToggleButton;
 import android.widget.ViewSwitcher;
 
 import com.android.contacts.ContactPhotoManager;
+
 import com.android.contacts.ContactsUtils;
 import com.android.contacts.R;
 import com.android.contacts.SpecialCharSequenceMgr;
 import com.android.contacts.activities.DialtactsActivity;
 import com.android.contacts.activities.DialtactsActivity.ViewPagerVisibilityListener;
+
 import com.android.contacts.dialpad.T9Search.ContactItem;
 import com.android.contacts.dialpad.T9Search.T9Adapter;
 import com.android.contacts.dialpad.T9Search.T9SearchResult;
+
 import com.android.contacts.util.PhoneNumberFormatter;
 import com.android.internal.telephony.ITelephony;
 import com.android.phone.CallLogAsync;
